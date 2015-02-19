@@ -1,4 +1,6 @@
 deb [trusted=yes] copy:/home/mdiener/debian-installer-20130613+deb7u2/build/ localudebs/
 deb http://ftp.br.debian.org/debian wheezy main/debian-installer
 deb http://http.debian.net/debian wheezy main/debian-installer
+deb http://http.debian.net/debian wheezy-updates main/debian-installer
+deb http://http.debian.net/debian wheezy-backports main/debian-installer
 
